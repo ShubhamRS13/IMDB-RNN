@@ -1,0 +1,15 @@
+Dataset: IMDB Movie review Dataset
+
+Input: Text 
+Output: Positve/Negative Prediction
+
+
+How we will do it : Plan
+Dataset --> Feature Engeneering --> Simple RNN --> svae(.h5) --> Streamlit web app --> Deplymennt
+
+Implementation
+Simple RNN concepts
+Embedding Layer - to conver the words into the vector (e.g onehotencoding, word2vec), Also called as Feature representation
+
+
+
